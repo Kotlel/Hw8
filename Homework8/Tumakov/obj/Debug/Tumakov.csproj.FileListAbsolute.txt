@@ -1,0 +1,7 @@
+C:\Users\Kotlel\source\repos\Homework8\Tumakov\bin\Debug\Tumakov.exe.config
+C:\Users\Kotlel\source\repos\Homework8\Tumakov\bin\Debug\Tumakov.exe
+C:\Users\Kotlel\source\repos\Homework8\Tumakov\bin\Debug\Tumakov.pdb
+C:\Users\Kotlel\source\repos\Homework8\Tumakov\obj\Debug\Tumakov.csproj.AssemblyReference.cache
+C:\Users\Kotlel\source\repos\Homework8\Tumakov\obj\Debug\Tumakov.csproj.CoreCompileInputs.cache
+C:\Users\Kotlel\source\repos\Homework8\Tumakov\obj\Debug\Tumakov.exe
+C:\Users\Kotlel\source\repos\Homework8\Tumakov\obj\Debug\Tumakov.pdb
